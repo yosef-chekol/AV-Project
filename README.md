@@ -1,2 +1,2 @@
-# Assignment-GIT
-Assignment GIT, for Automated vehicle course
+# Project Title:
+## Autonomous Lane Keeping & Traffic Sign Recognition System Course: Software Engineering for Autonomous Vehicles
